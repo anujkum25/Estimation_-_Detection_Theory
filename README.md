@@ -1,1 +1,4 @@
-# Estimation_-_Detection_Theory
+# Estimation and Detection theory
+
+
+See the attached word doc for details.
